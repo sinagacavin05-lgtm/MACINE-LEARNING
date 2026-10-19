@@ -1,3 +1,7 @@
+**SINAGA CAVIN ARDIANSYAH**
+**2415344021**
+
+
 # Mission-06A — Linear Regression on ESP32
 
 ## Predicting Machine Temperature with MicroPython
